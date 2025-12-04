@@ -1,2 +1,3 @@
-# CS2-Quarter-Project-2-
-legends lang nakakaalam ng repository nato
+# TITLE: SCHOLAR'S REQUIREMENTS TRACKER
+# Probelm Statement: We observed that some scholars forget to do their requirements leading to substandard grades and cramming.
+# Project Objective: We want to help students keep track of their requirements.
